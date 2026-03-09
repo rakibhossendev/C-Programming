@@ -1,13 +1,8 @@
-C Programming Roadmap for Logic & Problem Solving
-
+# C Programming Roadmap for Logic & Problem Solving
 Goal: Think like a computer, master logic, and build a strong foundation for Software Engineering, Web Development, AI, and Cybersecurity.
 
----
-
-Phase 1: C Fundamentals (Computer Thinking Foundation)
-
-Topics to Learn:
-
+## Phase 1: C Fundamentals (Computer Thinking Foundation)
+### Topics to Learn:
 1. Structure of a C program
 2. Variables and Data Types
 3. Operators
@@ -19,26 +14,16 @@ Topics to Learn:
 9. Strings
 10. Basic Debugging
 
-Goal:
-Understand how instructions execute step-by-step inside the computer.
+### Goal:
+- Understand how instructions execute step-by-step inside the computer.
 
-Resources:
+### Resources:
+- **Documentation**: https://en.cppreference.com/w/c
+- **Beginner Tutorials**: https://www.learn-c.org
+- **Practice**: https://www.hackerrank.com/domains/c
 
-Documentation
-https://en.cppreference.com/w/c
-
-Beginner Tutorials
-https://www.learn-c.org
-
-Practice
-https://www.hackerrank.com/domains/c
-
----
-
-Phase 2: Core Computer Thinking Concepts
-
-Topics:
-
+## Phase 2: Core Computer Thinking Concepts
+### Topics:
 1. Memory model
 2. Pointers
 3. Pointer Arithmetic
@@ -47,26 +32,16 @@ Topics:
 6. File Handling
 7. Recursion
 
-Goal:
-Understand how memory and data flow inside a program.
+### Goal:
+- Understand how memory and data flow inside a program.
 
-Resources:
+### Resources:
+- C Documentation: https://en.cppreference.com/w/c/memory
+- Pointer Guide: https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/
+- Practice Problems: https://www.codechef.com/practice
 
-C Documentation
-https://en.cppreference.com/w/c/memory
-
-Pointer Guide
-https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/
-
-Practice Problems
-https://www.codechef.com/practice
-
----
-
-Phase 3: Data Structures (Logic Mastery)
-
-Topics:
-
+## Phase 3: Data Structures (Logic Mastery)
+### Topics:
 1. Arrays
 2. Linked List
 3. Stack
@@ -76,26 +51,16 @@ Topics:
 7. Binary Search Tree
 8. Graph Basics
 
-Goal:
-Learn how data is organized and accessed efficiently.
+### Goal:
+- Learn how data is organized and accessed efficiently.
 
-Resources:
+### Resources:
+- DSA Tutorials: https://www.geeksforgeeks.org/data-structures/
+- Visualization: https://visualgo.net
+- Practice: https://leetcode.com
 
-DSA Tutorials
-https://www.geeksforgeeks.org/data-structures/
-
-Visualization
-https://visualgo.net
-
-Practice
-https://leetcode.com
-
----
-
-Phase 4: Algorithms (Problem Solving Level)
-
-Topics:
-
+## Phase 4: Algorithms (Problem Solving Level)
+### Topics:
 1. Searching Algorithms
 2. Sorting Algorithms
 3. Recursion Problems
@@ -104,26 +69,15 @@ Topics:
 6. Two Pointer Technique
 7. Sliding Window
 
-Goal:
-Solve problems efficiently and improve logical thinking.
+### Goal:
+- Solve problems efficiently and improve logical thinking.
 
-Resources:
+### Resources:
+- Algorithm Guide: https://cp-algorithms.com
+- Practice Platforms: LeetCode, HackerRank, Codeforces
 
-Algorithm Guide
-https://cp-algorithms.com
-
-Practice Platforms:
-
-LeetCode
-HackerRank
-Codeforces
-
----
-
-Phase 5: System Understanding (Advanced Thinking)
-
-Topics:
-
+## Phase 5: System Understanding (Advanced Thinking)
+### Topics:
 1. How memory works
 2. Stack vs Heap
 3. Bit Manipulation
@@ -131,57 +85,32 @@ Topics:
 5. Space Complexity
 6. Debugging and Optimization
 
-Goal:
-Think like a computer scientist.
+### Goal:
+- Think like a computer scientist.
 
-Resources:
+### Resources:
+- Book: Computer Systems: A Programmer’s Perspective
 
-Book
-Computer Systems: A Programmer’s Perspective
+## Daily Practice Routine
+- **Daily Plan**:
+  - 1 hour Learn C concept
+  - 1 hour Solve 2–3 problems
+  - 30 minutes Read documentation
 
----
-
-Daily Practice Routine
-
-Daily Plan:
-
-1 hour
-Learn C concept
-
-1 hour
-Solve 2–3 problems
-
-30 minutes
-Read documentation
-
----
-
-Final Goal
-
-After finishing this roadmap you will have:
-
-Strong Logic
-Problem Solving Skills
-Understanding of Computer Memory
-Solid DSA Foundation
+## Final Goal
+- Strong Logic Problem Solving Skills
+- Understanding of Computer Memory
+- Solid DSA Foundation
 
 These skills will help in:
+- Software Engineering
+- Web Development
+- AI Engineering
+- Cybersecurity
 
-Software Engineering
-Web Development
-AI Engineering
-Cybersecurity
-
----
-
-Important Advice
-
-Language is just a tool.
-
-Focus on:
-
-Logic
-Algorithms
-Problem solving
-
-If your logic is strong, you can easily switch to any language.
+## Important Advice
+- Language is just a tool. Focus on:
+  - Logic
+  - Algorithms
+  - Problem solving
+- If your logic is strong, you can easily switch to any language.
