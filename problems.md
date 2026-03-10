@@ -1,4 +1,4 @@
-50 Problem Challenge in C (Logic Master)
+# 50 Problem Challenge in C (Logic Master)
 
 Goal: Improve logical thinking and problem-solving using C.
 
