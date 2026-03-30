@@ -1,10 +1,21 @@
 
 #include<stdio.h>
 int main(){
-    int n = 4;
+    int n = 5;
     int sum = 0;
-    for(int i = 0; i<n; i++){
-        n = n + i;
-        printf("sum of %d + %d = %d\n",n, i,sum);
+    for(int i = 1; i<=n; i++){
+        sum = sum + i;
+        printf("%d + %d = %d\n",sum,i,sum);
     }
 }
+
+/*
+ * sum = 0
+ * for(     ){ 
+ *  sum = 1 
+ *  sun = 5 + 2 = 8
+ *  sum = 8 + 3 =  
+ * }
+ * 
+ * 
+ */
